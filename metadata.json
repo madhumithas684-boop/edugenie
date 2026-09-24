@@ -1,0 +1,6 @@
+{
+  "name": "EduGemini",
+  "description": "Google Gemini powered Learning Assistant providing personalized study plans, intuitive topic explanations, text summarization, interactive quizzes, and real-time interactive Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
